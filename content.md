@@ -1,0 +1,11 @@
+- [Sembosa](https://sembosa.netlify.app)
+- [Darija-MOE](https://github.com/Kirouane-Ayoub/Custom-MOE)
+- [Mamba-Darija](https://github.com/Kirouane-Ayoub/Mamba4Darija)
+- [Mistral-Darija](https://github.com/Kirouane-Ayoub/Mistral-Darija)
+- [Darija-GPT](https://github.com/Kirouane-Ayoub/Darija-GPT)
+- [Llama2-Darija ](https://github.com/Kirouane-Ayoub/Llama2-Speaks-Darija) 
+- [Corrective RAG](https://github.com/Kirouane-Ayoub/Corrective-RAG)
+- [ReflectRAG ](https://github.com/Kirouane-Ayoub/ReflectRAG)
+- [EvalMaster](https://github.com/Kirouane-Ayoub/EvalMaster)
+- [LLM Playground](https://github.com/Kirouane-Ayoub/Mesop-LLM-Playground)
+
