@@ -1,4 +1,5 @@
 - [Sembosa](https://sembosa.netlify.app)
+- [MambaTransformer](https://github.com/Kirouane-Ayoub/MambaTransformer)
 - [Darija-MOE](https://github.com/Kirouane-Ayoub/Custom-MOE)
 - [Mamba-Darija](https://github.com/Kirouane-Ayoub/Mamba4Darija)
 - [Mistral-Darija](https://github.com/Kirouane-Ayoub/Mistral-Darija)
