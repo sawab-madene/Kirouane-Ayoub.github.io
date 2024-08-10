@@ -1,4 +1,6 @@
 - [Sembosa](https://sembosa.netlify.app)
+- [Gemini-Openai-compatible-api](https://github.com/Kirouane-Ayoub/Openai-compatible-api)
+- [LLMs Playground](https://github.com/Kirouane-Ayoub/Mesop-LLM-Playground)
 - [MambaTransformer](https://github.com/Kirouane-Ayoub/MambaTransformer)
 - [Darija-MOE](https://github.com/Kirouane-Ayoub/Custom-MOE)
 - [Mamba-Darija](https://github.com/Kirouane-Ayoub/Mamba4Darija)
@@ -8,5 +10,4 @@
 - [Corrective RAG](https://github.com/Kirouane-Ayoub/Corrective-RAG)
 - [ReflectRAG ](https://github.com/Kirouane-Ayoub/ReflectRAG)
 - [EvalMaster](https://github.com/Kirouane-Ayoub/EvalMaster)
-- [LLM Playground](https://github.com/Kirouane-Ayoub/Mesop-LLM-Playground)
 
