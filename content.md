@@ -1,4 +1,5 @@
 - [Sembosa](https://sembosa.netlify.app)
+- [ColPali-RAG](https://github.com/Kirouane-Ayoub/colpali-rag)
 - [Gemini-Openai-compatible-api](https://github.com/Kirouane-Ayoub/Openai-compatible-api)
 - [LLMs Playground](https://github.com/Kirouane-Ayoub/Mesop-LLM-Playground)
 - [MambaTransformer](https://github.com/Kirouane-Ayoub/MambaTransformer)
